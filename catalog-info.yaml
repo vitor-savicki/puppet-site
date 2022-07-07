@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: puppet-site
+  annotations:
+    github.com/project-slug: vitor-savicki/puppet-site
+spec:
+  type: other
+  lifecycle: unknown
+  owner: vitor-savicki
